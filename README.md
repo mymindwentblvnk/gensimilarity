@@ -27,6 +27,14 @@ While experimenting with Topic Modelling and NLP I had the idea of a tool that c
 
 Since Wikipedia does not always return the right article for an misleading artist name I started to use the Last.FM API and got my articles from there.
 
+## Music Artist Example
+
+Take a look at the Jupyter notebook [music_artist.ipynb](https://github.com/mymindwentblvnk/gensimilarity/blob/master/music_artists.ipynb) to see how this works. You have to provide Last.FM API information in settings.py to make it run yourself. You can use my pickled model which saves you a lot of time.
+
+## Movie Example
+
+tbd.
+
 ## Summary
 I guess it works. There were no super embarrassing results. If the source data would cover every music genre the results would be much better I guess. 
 
@@ -37,11 +45,3 @@ Is this thing practically? I would say no, because it takes hours to build the m
 
 But what is charming is that I can apply this tool to topics I don't even know anything about. I just need to fetch source data e. g. from Wikipedia and make it work. With this I can ask for similar books or movies only by their summary.
 Also very good is that I don't have to parse the source data for keywords in any way. The gensim model I have chosen works really good.
-
-## Music Artist Example
-
-Take a look at the Jupyter notebook [music_artist.ipynb](https://github.com/mymindwentblvnk/gensimilarity/blob/master/music_artists.ipynb) to see how this works. You have to provide Last.FM API information in settings.py to make it run yourself. You can use my pickled model which saves you a lot of time.
-
-## Movie Example
-
-tbd.
