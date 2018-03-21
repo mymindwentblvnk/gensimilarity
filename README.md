@@ -40,7 +40,7 @@ Also very good is that I don't have to parse the source data for keywords in any
 
 ## Music Artist Example
 
-Take a look at the Jupyter notebook [music_artist.ipynb](https://github.com/mymindwentblvnk/gensimilartists/blob/master/music_artist.ipynb) to see how this works. You have to provide Last.FM API information in settings.py to make it run yourself. You can use my pickled model which saves you a lot of time.
+Take a look at the Jupyter notebook [music_artist.ipynb](https://github.com/mymindwentblvnk/gensimilarity/blob/master/music_artist.ipynb) to see how this works. You have to provide Last.FM API information in settings.py to make it run yourself. You can use my pickled model which saves you a lot of time.
 
 ## Movie Example
 
