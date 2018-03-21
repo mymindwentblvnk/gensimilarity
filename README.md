@@ -1,4 +1,4 @@
-# GenSimilarArtists
+# gensimilarity
 Find similar artists based on gensim and topic modelling.
 
 ## The Idea
