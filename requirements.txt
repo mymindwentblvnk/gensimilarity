@@ -1,4 +1,4 @@
 pylast==2.1.0
 gensim==3.4.0
 jupyter
-nltk==3.2.5
+nltk==3.6.6
